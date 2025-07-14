@@ -18,3 +18,5 @@ With the skills learnt from the C chapters we started our first group project wh
 In the spring term we moved onto Java which envolved learning object oriented programming which I struggled with at some points. During these tutorials we learnt the basics of OOP aswell as inheritence, polymorphism and encapulation. We completed a series of tasks similar to the C chapters to prepare us for our next project in the summer. 
 
 Our summer project envolved creating the game animalopoly. In my group we split the tasks into classes and I wrote the dice and player class which included lots of attributes and methods that were then used on the main board. Overall I think anaimalopoly really improved my understanding of OOP. 
+
+Finally in secondaary school I did a project in python that uses file handling. It envoved crfeating a list of songs with their artists and calling them to the program when they were in an external file. 
